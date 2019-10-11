@@ -296,7 +296,7 @@
             "properties": {
                 "addOnPackages": [
                     {
-                        "packageUri": "https://kspwebstorageaccount.blob.core.windows.net/oct-11/edit11.rar?sp=r&st=2019-10-11T07:27:29Z&se=2019-11-30T15:27:29Z&spr=https&sv=2018-03-28&sig=2vsdFQrszCe4c%2BJMqOnq9pveOsdl4IFJbF1enVMYtVk%3D&sr=b"
+                        "packageUri": "https://kspwebstorageaccount.blob.core.windows.net/oct-11/oct-11-phase-2.zip?sp=r&st=2019-10-11T11:43:51Z&se=2019-11-29T19:43:51Z&spr=https&sv=2018-03-28&sig=Y90Q0jLnZDR4o%2FVeIELdRAi2%2FcDpzgKEsO51KFC%2BAGI%3D&sr=b"
                     }
                 ]
             }
